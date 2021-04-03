@@ -1,0 +1,1 @@
+.scroll{display:flex;flex:1}[dir=ltr] .q-select__dialog{direction:rtl}[dir=rtl] .q-select__dialog{direction:ltr}[dir=ltr] .q-chip--dense .q-chip__icon--remove{margin-right:0.25em}[dir=rtl] .q-chip--dense .q-chip__icon--remove{margin-left:0.25em}[dir=ltr] .q-chip__icon--remove{margin-left:0}[dir=rtl] .q-chip__icon--remove{margin-right:0}
