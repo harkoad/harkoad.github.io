@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkariamin"]=self["webpackChunkariamin"]||[]).push([[100],{8100:(n,r,t)=>{t.r(r),t.d(r,{default:()=>o});var a=t(3673);const e={id:"toolbarOpt"};function i(n,r,t,i,s,u){return(0,a.wg)(),(0,a.iD)("div",e)}const s={setup(){}};var u=t(4260);const c=(0,u.Z)(s,[["render",i]]),o=c}}]);

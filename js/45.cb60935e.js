@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkariamin"]=self["webpackChunkariamin"]||[]).push([[45],{4045:(e,n,r)=>{r.r(n),r.d(n,{default:()=>c});var i=r(3673);function s(e,n,r,s,a,t){return(0,i.wg)(),(0,i.iD)("div",null,"settings is here")}const a={};var t=r(4260);const u=(0,t.Z)(a,[["render",s]]),c=u}}]);
