@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkariamin"]=self["webpackChunkariamin"]||[]).push([[651],{7651:(r,e,n)=>{n.r(e),n.d(e,{default:()=>d});var s=n(3673);const a={id:"footer",class:"bckgrd"};function t(r,e,n,t,c,i){return(0,s.wg)(),(0,s.iD)("div",a)}const c={setup(){}};var i=n(4260);const u=(0,i.Z)(c,[["render",t]]),d=u}}]);
